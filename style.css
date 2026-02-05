@@ -131,7 +131,7 @@
 
 .box12 .content {
   /*Her indsættes baggrundsbillede vha. background-image og background-size */
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/himmel.jpeg");
+  background-image: url(bg_images/himmel.jpeg);
   background-color: #cccccc;
   background-size: 100%;
 
@@ -149,7 +149,7 @@
   font-weight: 600;
 
   /*Her indsættes baggrundsbillede vha. background-image og background-size */
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/himmel.jpeg");
+  background-image: url(bg_images/himmel.jpeg);
   background-color: #cccccc;
   background-size: 100%;
   /*Her indsættes baggrundsbilledet som fyld i teksten og teksten gøres transparent*/
@@ -175,7 +175,7 @@
 .box15 .content {
   /*Her indsættes de to baggrunde vha. background separeret af komma - husk at den der skal ligge øverst skal stå først*/
   background: #faa346;
-  background: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/blomst.png"), linear-gradient(90deg, rgba(250, 163, 70, 1) 0%, rgba(199, 87, 195, 1) 50%, rgba(83, 206, 237, 1) 100%), transparent;
+  background: url(bg_images/blomst.png), linear-gradient(90deg, rgba(250, 163, 70, 1) 0%, rgba(199, 87, 195, 1) 50%, rgba(83, 206, 237, 1) 100%), transparent;
   /* størrelse på de to baggrunde separeret af komma */
   background-size: 25%, 100%;
   /* skal baggrundsbilledet gentages? */
@@ -201,7 +201,7 @@
   display: flex;
   justify-content: space-around;
   /*Kode som sætter baggrundsbillede (himmel.jpg ind)    */
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/himmel.jpeg");
+  background-image: url(bg_images/himmel.jpeg);
   background-color: #cccccc;
   background-size: 100%;
 }
@@ -215,7 +215,7 @@
   border: 1px dashed magenta;
 
   /*Indsæt selv blomsten med background-image og background-size*/
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/blomst.png");
+  background-image: url(bg_images/blomst.png);
   background-size: 100%;
   background-repeat: no-repeat;
   /*Baggrundsfarve*/
@@ -229,7 +229,7 @@
   border: 1px dashed rgb(255, 0, 255);
 
   /*Indsæt blomsten med background-image og background-size*/
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/blomst.png");
+  background-image: url(bg_images/blomst.png);
   background-size: 100%;
   background-repeat: no-repeat;
 
@@ -244,7 +244,7 @@
   display: flex;
   justify-content: center;
   /*Indsæt blåt baggrundsbillede*/
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/blue.jpeg");
+  background-image: url(bg_images/blue.jpeg);
   background-size: 100%;
 }
 
@@ -253,7 +253,7 @@
   width: 100px;
   height: 100px;
   /*Indsæt blomsten med background-image og background-size*/
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/bg_images/blomst.png");
+  background-image: url(bg_images/blomst.png);
   background-size: 100%;
   background-repeat: no-repeat;
 
@@ -299,7 +299,7 @@
 .box20 .content .kvadrat2 {
   width: 80px;
   height: 80px;
-  background-image: url("/Users/piamaagaard1/Desktop/ek/02_web/20_bokse-opgave-stud/boat-clipart-xl.png");
+  background-image: url(boat-clipart-xl.png);
   background-size: 100%;
   background-repeat: no-repeat;
   margin-left: 2rem;
