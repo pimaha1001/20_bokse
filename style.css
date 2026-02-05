@@ -131,7 +131,7 @@
 
 .box12 .content {
   /*Her indsættes baggrundsbillede vha. background-image og background-size */
-  background-image: url("bg_images/himmel.jpeg");
+  background-image: url("bgimages/himmel.jpeg");
   background-color: #cccccc;
   background-size: 100%;
 
@@ -149,7 +149,7 @@
   font-weight: 600;
 
   /*Her indsættes baggrundsbillede vha. background-image og background-size */
-  background-image: url("bg_images/himmel.jpeg");
+  background-image: url("bgimages/himmel.jpeg");
   background-color: #cccccc;
   background-size: 100%;
   /*Her indsættes baggrundsbilledet som fyld i teksten og teksten gøres transparent*/
@@ -201,7 +201,7 @@
   display: flex;
   justify-content: space-around;
   /*Kode som sætter baggrundsbillede (himmel.jpg ind)    */
-  background-image: url("bg_images/himmel.jpeg");
+  background-image: url("bgimages/himmel.jpeg");
   background-color: #cccccc;
   background-size: 100%;
 }
@@ -215,7 +215,7 @@
   border: 1px dashed magenta;
 
   /*Indsæt selv blomsten med background-image og background-size*/
-  background-image: url("bg_images/blomst.png");
+  background-image: url("bgimages/blomst.png");
   background-size: 100%;
   background-repeat: no-repeat;
   /*Baggrundsfarve*/
@@ -229,7 +229,7 @@
   border: 1px dashed rgb(255, 0, 255);
 
   /*Indsæt blomsten med background-image og background-size*/
-  background-image: url("bg_images/blomst.png");
+  background-image: url("bgimages/blomst.png");
   background-size: 100%;
   background-repeat: no-repeat;
 
@@ -244,7 +244,7 @@
   display: flex;
   justify-content: center;
   /*Indsæt blåt baggrundsbillede*/
-  background-image: url("bg_images/blue.jpeg");
+  background-image: url("bgimages/blue.jpeg");
   background-size: 100%;
 }
 
@@ -253,7 +253,7 @@
   width: 100px;
   height: 100px;
   /*Indsæt blomsten med background-image og background-size*/
-  background-image: url("bg_images/blomst.png");
+  background-image: url("bgimages/blomst.png");
   background-size: 100%;
   background-repeat: no-repeat;
 
